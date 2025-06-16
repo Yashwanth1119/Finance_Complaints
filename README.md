@@ -35,7 +35,7 @@ Consumers often lodge complaints related to banking, loans, credit cards, and ot
 ---
 
 ## 🏗️ Project Structure
-
+```bash
 finance_complaint_classifier/
 ├── app/
 │ ├── main.py # FastAPI app
@@ -50,7 +50,7 @@ finance_complaint_classifier/
 ├── requirements.txt
 └── README.md
 ---
-
+```
 ## 🚀 How to Run
 
 ### ⚙️ Environment Setup
