@@ -59,6 +59,7 @@ finance_complaint_classifier/
 git clone https://github.com/your-username/finance-complaint-classifier.git
 cd finance-complaint-classifier
 pip install -r requirements.txt
+```
 
 ##Jupyter Notebook (Training + EDA)
 jupyter notebook notebook/Finance_Complaints_Classifier.ipynb
