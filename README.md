@@ -61,10 +61,10 @@ cd finance-complaint-classifier
 pip install -r requirements.txt
 ```
 
-##Jupyter Notebook (Training + EDA)
+## Jupyter Notebook (Training + EDA)
 jupyter notebook notebook/Finance_Complaints_Classifier.ipynb
 
-##Visualizations Included
+## Visualizations Included
 Bar chart of top complaint categories
 
 Word Cloud of complaint narratives
@@ -75,9 +75,8 @@ Interactive Plotly trend analysis
 
 TF-IDF keyword insights (optional)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/example/bar_chart.png" width="500"/> <img src="https://user-images.githubusercontent.com/example/wordcloud.png" width="500"/> </p>
 
-##Future Improvements
+## Future Improvements
 Use advanced NLP models (BERT, RoBERTa)
 
 Add label explanation (e.g., via SHAP)
